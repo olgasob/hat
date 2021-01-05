@@ -1,0 +1,14 @@
+# git ignore file
+
+# Git merge results
+*.orig
+*.rej
+
+# Binaries
+[Bb]in
+obj
+
+# Idea
+*idea/
+!/.idea/
+**/.vs/**
